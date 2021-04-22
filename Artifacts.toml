@@ -1,0 +1,46 @@
+[[libavtp]]
+arch = "aarch64"
+git-tree-sha1 = "429b563a1413219ff2e459c8474aa5dbdb7dab00"
+libc = "glibc"
+os = "linux"
+
+    [[libavtp.download]]
+    sha256 = "29eba372d4b0a40db74b8cc10e02631dd8a8014a1aae9c9090bbaa0251ca6827"
+    url = "https://github.com/JuliaBinaryWrappers/libavtp_jll.jl/releases/download/libavtp-v0.1.0+0/libavtp.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[libavtp]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b57455c45f186b2892d53acbf00968c7c8e3dc9c"
+libc = "glibc"
+os = "linux"
+
+    [[libavtp.download]]
+    sha256 = "ef3644d404db6357d26a0cd3b75c82af4655fd75b4e8eba75e6119d78697c190"
+    url = "https://github.com/JuliaBinaryWrappers/libavtp_jll.jl/releases/download/libavtp-v0.1.0+0/libavtp.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[libavtp]]
+arch = "i686"
+git-tree-sha1 = "3b810c50234aa2eb648ed169751e4e7817858ae1"
+libc = "glibc"
+os = "linux"
+
+    [[libavtp.download]]
+    sha256 = "c11decdb57ff3247d4419b76fcc53cab1a86fbf0646124e68828b47593ccc676"
+    url = "https://github.com/JuliaBinaryWrappers/libavtp_jll.jl/releases/download/libavtp-v0.1.0+0/libavtp.v0.1.0.i686-linux-gnu.tar.gz"
+[[libavtp]]
+arch = "powerpc64le"
+git-tree-sha1 = "061c549505d81a62e6c1be48a37b3a6df65ab39d"
+libc = "glibc"
+os = "linux"
+
+    [[libavtp.download]]
+    sha256 = "b8c49962e55cd89c3cb372902eefc46ef4f720cc9033f47e07663dbbb97e0ae5"
+    url = "https://github.com/JuliaBinaryWrappers/libavtp_jll.jl/releases/download/libavtp-v0.1.0+0/libavtp.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[libavtp]]
+arch = "x86_64"
+git-tree-sha1 = "e40f54f0bdd32b7a231c7f70a94d51f838eeaf4b"
+libc = "glibc"
+os = "linux"
+
+    [[libavtp.download]]
+    sha256 = "9097e1decce73e9fc2811ff85660b84b7c83b96ab3daa0cc9b12c3a8aab86b1b"
+    url = "https://github.com/JuliaBinaryWrappers/libavtp_jll.jl/releases/download/libavtp-v0.1.0+0/libavtp.v0.1.0.x86_64-linux-gnu.tar.gz"
